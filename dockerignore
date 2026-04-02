@@ -1,0 +1,11 @@
+.git
+.github
+.gitignore
+**/.DS_Store
+**/.dart_tool
+**/.gradle
+**/.idea
+**/build
+node_modules
+artifacts
+dist
